@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotGun Queen", "ShotGun Queen.csproj", "{C66722BB-C5DD-4C04-A042-E5E2E7700444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{C66722BB-C5DD-4C04-A042-E5E2E7700444}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

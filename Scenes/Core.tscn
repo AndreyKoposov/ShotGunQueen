@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cplu8fa2n8jvo"]
+
+[ext_resource type="Script" path="res://Scripts/Square.cs" id="1_t1dl4"]
+
+[node name="Square" type="ColorRect"]
+script = ExtResource("1_t1dl4")
